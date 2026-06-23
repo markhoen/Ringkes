@@ -29,7 +29,7 @@ struct AboutView: View {
                     .font(.headline)
                     .foregroundStyle(.secondary)
 
-                Text("Version 1.1.0")
+                Text("Version 1.2.0")
                     .font(.subheadline)
                     .foregroundStyle(.secondary)
                     .padding(.top, 4)
@@ -40,7 +40,7 @@ struct AboutView: View {
 
             VStack(spacing: 4) {
 
-                Text("PDF Compressor & FPDI Fixer")
+                Text("Compress & Merge PDFs")
                     .font(.body)
 
                 Text("Powered by Ghostscript")
