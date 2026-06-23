@@ -30,7 +30,7 @@ Ikon aplikasi RINGKES memadukan elemen **Blangkon Jawa** dan **Tumpukan Dokumen*
 ## 🛠️ Teknologi yang Digunakan
 
 ## 🛠️ macOS
-* **Platform:** macOS
+* **Platform:** macOS (Intel ataupun M Series)
 * **Bahasa/Framework:** SwiftUI
 * **Library Kompresi:** Ghostscript
 
@@ -40,10 +40,11 @@ Ikon aplikasi RINGKES memadukan elemen **Blangkon Jawa** dan **Tumpukan Dokumen*
 
 ### Kebutuhan Sistem
 * macOS 14.0 (Sonoma) atau versi yang lebih baru.
+* Windows 10 atau yang lebih baru.
 
 ### Cara Penggunaan
 1. Unduh rilis terbaru aplikasi di halaman **Releases**.
-2. Buka berkas `.dmg` atau jalankan aplikasi **RINGKES**.
+2. Buka berkas `.dmg` atau jalankan aplikasi **RINGKES** (macOS), buka berkas `.zip` dan jalankan setup (Windows) .
 3. Tarik (*drag*) file PDF yang ingin Anda kompres, lalu letakkan (*drop*) ke dalam jendela aplikasi.
 4. Tunggu beberapa saat, dan file PDF Anda yang baru yang lebih ringkas siap digunakan!
 
